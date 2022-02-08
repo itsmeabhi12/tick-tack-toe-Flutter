@@ -4,6 +4,10 @@ A Simple Flutter Tick-Tacl-Toe Game
 
 ## Screen Shots
 <img src="https://raw.githubusercontent.com/itsmeabhi12/tick-tack-toe-Flutter/main/screenshots/Screenshot_1644314154.png" alt="a" width="200"/>
+<img src="https://raw.githubusercontent.com/itsmeabhi12/tick-tack-toe-Flutter/main/screenshots/Screenshot_1644314628.png" alt="a" width="200"/>
+<img src="https://raw.githubusercontent.com/itsmeabhi12/tick-tack-toe-Flutter/main/screenshots/Screenshot_1644314643.png" alt="a" width="200"/>
+<img src="https://raw.githubusercontent.com/itsmeabhi12/tick-tack-toe-Flutter/main/screenshots/Screenshot_1644314652.png" alt="a" width="200"/>
+<img src="https://raw.githubusercontent.com/itsmeabhi12/tick-tack-toe-Flutter/main/screenshots/Screenshot_1644314666.png" alt="a" width="200"/>
 
 
 ## Getting Started
